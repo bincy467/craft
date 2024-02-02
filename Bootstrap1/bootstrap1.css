@@ -1,0 +1,151 @@
+.navbar{
+    background-color: rgba(6, 95, 13, 0.899);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    
+}
+.page1{
+    background-image:url(/Bootstrap1/image/bootstrap-laura-james-6102562.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.7;
+    height: 600px;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 180px;
+    padding-right:100px;
+    
+}
+.page1 h1{
+padding-left: 10px;
+}
+.page1 p{
+    padding-left: 10px;
+}
+.page1 button{
+    margin-left: 10px;
+}
+
+.container{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    height: 250px;
+    color: rgb(16, 79, 16);
+    padding-top: 50px;
+   
+    }
+
+
+.container h6{
+    text-decoration: underline;
+    
+}
+.page2{
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    justify-content: center;
+    color: rgb(98, 152, 98);
+}     
+.page2 .right h6{
+    margin-top: 10px;
+    text-decoration: underline;
+}
+.page3{
+    background-color: rgb(254, 210, 217);
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(98, 152, 98);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.page4{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 50px;
+}
+.page4 .img1 h5{
+    padding-right: 350px;
+}
+.page4 .img1 p{
+    padding-right: 350px;
+}
+.page4 .img2 h5{
+    padding-right: 250px;
+}
+.page4 .img2 p{
+    padding-right: 250px;
+}
+.main-7{
+    display: flex;
+    width: 100%;
+    margin-top: 10px;
+    background-color: darkgreen;
+}
+
+.main-7-left-body{
+    width: 100%;
+    display: flex;
+    color: aliceblue;
+    padding-left: 50px;
+    margin-top: 50px;
+}
+
+.list-1{
+    width: 20%;
+}
+
+.list-2{
+    width: 20%;
+}
+
+.list-3{
+    width: 20%;
+}
+.list-4{
+    width: 20%;
+}
+.newsletter{
+    
+  width: 20%;
+}
+
+input{
+    height: 20px;
+}
+
+.main-8{
+    display: flex;
+    background-color:darkgreen;
+}
+.copy{
+    color: white;
+    margin-left: 50px;
+}
+
+.main-8{
+    width: 100%;
+    background-color:darkgreen;
+}
+
+.main-7-left-body, .list-1, .h6{
+    color: #888888;
+    
+
+}
+
+.main-8-left-body{
+    width: 50%;
+}
+
+.main-8-right-body{
+    width: 50%;
+    margin-left: 700px;
+    margin-top: 30px;
+}
+
+    
+
+
+
+
